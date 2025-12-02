@@ -1,7 +1,7 @@
-GourmetTech_Project
-Gourmet Tech est une application web & web mobile destinée aux passionnés de cuisine et fiches recettes.
-Cette dernière vous offre la possibilité de consulter de multiples recettes de cuisine en ligne.
-Aperçu de l'application
+GourmetTech_Project  
+Gourmet Tech est une application web & web mobile destinée aux passionnés de cuisine et fiches recettes.  
+Cette dernière vous offre la possibilité de consulter de multiples recettes de cuisine en ligne.  
+Aperçu de l'application  
 Une Page d'accueil listant les recettes ainsi qu’une fonction recherche par nom et/ou par différents filtres
 Affichage des différentes recettes
 Possibilité de générer une recette aléatoire via une page dédiée
