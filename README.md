@@ -1,4 +1,5 @@
 GourmetTech_Project  
+
 Gourmet Tech est une application web & web mobile destinée aux passionnés de cuisine et fiches recettes.  
 Cette dernière vous offre la possibilité de consulter de multiples recettes de cuisine en ligne.  
 Aperçu de l'application  
@@ -12,7 +13,9 @@ Un dossier assets comprenants les différentes photos présentes sur l'applicati
 Un dossier CSS  
 Un dossier JS (JavaScript)  
 les différentes pages HTML de l'application  
-Technologies utilisées  
+
+Technologies utilisées:  
+
 HTML5  
 CSS3  
 JavaScript  
@@ -21,13 +24,15 @@ Clonez le dépôt :
 git clone https://github.com/Thomas-Durandiere/GourmeTech.git  
 Ouvrez le fichier index.html dans votre navigateur.  
 Aucun backend n'est requis. Le projet est entièrement statique.  
-Fonctionnalités  
+
+Fonctionnalités:  
 
 Moteur de recherche de recettes (avec filtres)  
 Interface responsive améliorée (mobile & tablette)  
 Ajout de Favoris  
 🌙 Mode sombre  
 Système de notation des recettes  
+
 À propos  
 Ce projet a été réalisé dans le cadre d’une formation Développeur Web & Web Mobile via l’IECN, par Kévin et Thomas.  
 Contact  
